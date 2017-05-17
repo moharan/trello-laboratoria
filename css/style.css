@@ -1,3 +1,8 @@
 body {
-	background-color: black;
+	background-color: #fff;
+	margin: 0 auto;
+}
+header {
+	background-color: #026AA7;
+	height: 40px;
 }
